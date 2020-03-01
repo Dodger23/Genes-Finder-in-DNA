@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=main
+comment1.params=data
+comment1.target=void\ writeUsingFileWriter(java.lang.String)
+comment2.params=dna\ startIndex\ stopCodon
+comment2.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment3.params=DNA\ where
+comment3.target=java.lang.String\ findGene(java.lang.String,\ int)
+comment4.params=dna
+comment4.target=void\ AllGenes(java.lang.String)
+comment5.params=
+comment5.target=void\ test()
+numComments=6
